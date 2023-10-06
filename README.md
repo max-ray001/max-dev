@@ -107,7 +107,7 @@
 <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
 
 <!-- --- -->
-  
+  <h4 align="center">If you have trouble with these kind of projects, please feel free to ✍️ me.</h4>
 <!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
