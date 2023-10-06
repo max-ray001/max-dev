@@ -15,7 +15,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working as a Freelancer!
+🔭 I’m an engineer with various experience!
   
 🌱 I’m currently learning : AI Development
 
