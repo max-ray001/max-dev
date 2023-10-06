@@ -83,6 +83,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <a href="https://codeigniter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/onosaito/my-prof/blob/ono_dev/codeIgniter-logo.png" alt="bash" width="40" height="40"/> </a> 
   <a href="https://laravel.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/onosaito/my-prof/blob/main/Untitled.png" alt="bash" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
